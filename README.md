@@ -1,0 +1,15 @@
+# MongolosDB
+Ultra complex database designed for data science usages.
+
+<username>  -p	Start log in process, you have to type the password next
+
+useradd <username> asks for a password twice to register a new user
+
+use table <tablename> will search in the table databse for that tablename
+		      and if found, will verify if the current user have
+		      permission for using that table
+
+
+display table <tablename> displays table if user is able to 
+
+clear  clears shell
