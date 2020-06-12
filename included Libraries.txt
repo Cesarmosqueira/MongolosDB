@@ -1,0 +1,10 @@
+#include <iostream>		
+#include <fstream>
+#include "Datatypes.h"
+#include <vector>
+#include <iomanip>
+#include<sstream>
+#include<string>
+#include "Table_Manager.hpp"
+#include <list>
+#include<conio.h>
