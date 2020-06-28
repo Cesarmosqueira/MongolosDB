@@ -27,9 +27,7 @@ class Binary_Tree {
 	Node<T>* root;
 	int size;
 public:
-	Binary_Tree() {
-		size = 0;
-		root = nullptr;
+	Binary_Tree() : size(0), root(nullptr) {
 		linear.clear();
 	}
 	~Binary_Tree() {
