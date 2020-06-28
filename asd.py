@@ -1,0 +1,2 @@
+
+print(%s, 'hello world')
